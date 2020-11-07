@@ -2,7 +2,7 @@
  Chat Realtime Chat Tinder
 </h1>
 
-<p align="center"> 💬 <strong>Realtime Clone Chat Tinder</strong> 🚧
+<p align="center"> 💬 <strong>Em andamento...</strong> 🚧
  </p>
   
 <br>
