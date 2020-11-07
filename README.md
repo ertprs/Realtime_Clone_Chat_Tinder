@@ -85,7 +85,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [Redux.js](https://redux.js.org)
+- [Express](https://expressjs.com/pt-br/)
+- [Firebase](https://firebase.google.com/?hl=pt-br)
+- [MongoDB](https://www.mongodb.com)
 
 <br>
 
