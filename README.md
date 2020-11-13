@@ -35,6 +35,7 @@
 
 ## 💻 Sobre o projeto
 
+
 🚀 O projeto é um Clone do Chat do Tinder, desenvolvido com ReactJS. 
 
 <br>
